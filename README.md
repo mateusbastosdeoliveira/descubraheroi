@@ -1,1 +1,1 @@
-# descubraheroi
+Este projeto consiste em uma página interativa onde o usuário pode tentar desbloquear um herói digitando o nome dele em um campo de texto. Se o herói estiver na lista predefinida, a foto dele será exibida na página.
